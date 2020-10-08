@@ -1,0 +1,29 @@
+.Card {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin: 0 auto;
+    max-width: 1120px;
+    padding: 1rem;
+    color: purple;
+  }
+  
+  .ProfileCard {
+    border: solid 1px #666;
+    border-radius: 4px;
+    flex: 1 0 320px;
+    margin: 8px;
+    padding: 8px;
+  }
+  
+  .button {
+    background-color: rgb(120, 120, 176);
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+
+
+  .title {
+    color: orange;
+  }
