@@ -1,4 +1,4 @@
-<h1>Random Chuck Norris Joke Generator with Reat</h1>
+<h3>Random Chuck Norris Joke Generator with React</h3>
 <br>
 
-<h2> Experimenting With API's in React</h2>
+<h4> Experimenting With API's in React</h4>
